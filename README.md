@@ -23,7 +23,7 @@
   [Яндекс](https://www.yandex.ru "Я Yandex!")
 
 ```bash
-ls - la
+ls -la
 ```
 ```html
 <h1>А я просто текст</h1>
